@@ -2,6 +2,8 @@
 
 A project developed during my Diploma in Computer Science using PHP and HTML.
 
+There is a report for this project. The report might not be the same as the current db but report just for showcase purpose.
+
 ## Prerequisites
 
 - Download the source code ZIP file.
